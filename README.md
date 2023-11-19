@@ -1,5 +1,7 @@
 # Adafruit_FT232h_Kicad_Footprint
 A kicad footprint for the Adafruit FT232h module (https://www.adafruit.com/product/2264). Symbol, footprint, and 3d model included.
+The FT232h module from Adafruit is a catch all USB-to-ManySerialProtocol bridge that allows you to talk I2C, SPI, UART, JTAG, and more
+straight from code running on your PC.
 
 # Installation
 
